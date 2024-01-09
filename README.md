@@ -1,5 +1,40 @@
-# Getting Started with Create React App
+# Ravenous Project by Codecademy
 
+## Ravenous Part 1: Creating Project & Components
+Welcome to the Ravenous project, where you’ll be building a restaurant recommendation website that allows users to search for local businesses based on their location and keywords. Using a tech stack that includes HTML, CSS, JavaScript, React, and the Yelp API, you’ll be creating an application that replicates the core functionality of Yelp. If you want to get a feel for what Ravenous can be, visit the Yelp website and search for restaurants in your area.
+
+In this first part of a four-part project, you will lay the foundations of Ravenous by building the website’s homepage. By the end, you will have created a static interface for Ravenous, which features a header, a search bar, and a list of businesses.
+
+Through the four parts of Ravenous, you’ll build upon this foundation, adding features such as sorting and filtering options, and dynamic search results. By the end of the project, you’ll have developed a fully functional restaurant recommendation website that will help users find their next favorite eatery.
+
+## Project Requirements
+Build the restaurant recommendation application using React
+Utilize HTML, CSS, and Javascript as part of the tech stack
+Version control your application with Git and host the repository on GitHub
+Write a README (using Markdown) that documents your project, including:
+The purpose of your project
+Technologies used
+Features
+Future work
+
+## Features
+
+The website allows users to scroll up and down to navigate through its content.
+Users can simulate a search by typing in the search bar
+A list of mock restaurant data is presented to the user.
+
+## Prerequisites
+
+HTML
+CSS
+Javascript
+React
+Git and GitHub
+HTTP Requests and Responses
+Authentication
+
+
+## React app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -29,42 +64,3 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
